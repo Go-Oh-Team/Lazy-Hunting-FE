@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "DungGeunMo";
+  font-weight: normal;
+  src: url("./fonts/DungGeunMo.ttf"); /* public 폴더 기준 */
+}
+
+html, body, div, h1, h2, h3, h4, h5, h6, p, span, input, button {
+  font-family: "DungGeunMo", sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
